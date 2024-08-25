@@ -10,7 +10,7 @@ extends="\\"
 
 email="mohammedarbinsibi@gmail.com"
 password="20488847"
-to_add="mohammedarbi.nsibi@supcom.tn"
+to_add=["mohammedarbi.nsibi@supcom.tn"]
 
 
     # Send emails

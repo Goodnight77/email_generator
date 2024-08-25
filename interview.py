@@ -36,7 +36,7 @@ if st.button("generate emails"):
 
         interviewer = Agent(
                     role= "email generator", 
-                    goal = f"accuratly generate emails for the candidate whose name is {name} inviting him for an interview", 
+                    goal = f"generate emails for the candidate whose name is {name} inviting him for an interview", 
                     backstory= backstory,
                     verbose = True, 
                     allow_delegation = False, 
