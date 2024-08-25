@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+Mohammed Arbi Nsibi_interview_email.txt
+contact_info.csv
+nb.ipynb
+test.txt
 # Distribution / packaging
 .Python
 build/
