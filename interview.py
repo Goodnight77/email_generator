@@ -4,12 +4,12 @@ import pandas as pd
 import streamlit as st 
 os.environ["OPENAI_API_BASE"] = 'https://api.groq.com/openai/v1'
 os.environ["OPENAI_MODEL_NAME"] ='llama3-70b-8192'  
-os.environ["OPENAI_API_KEY"] ='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'
+os.environ["OPENAI_API_KEY"] ='api key here'
 
 
 st.title("interview email generator")
 calendly_link= st.text_input("Calendly link","https://calendly.com/example")
-HR_Name= st.text_input("HR Name",'Mohamed Arbi Nsibi')
+HR_Name= st.text_input("HR Name",'Mohamed Arbi')
 job_type= st.text_input("Job Type","AI Engineer")
 csv_file = st.file_uploader("upload csv file with candidtes names", type= "csv")
 is_verbose= True
