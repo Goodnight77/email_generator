@@ -52,10 +52,9 @@ cd yaml_config_idea/email_generator
 
 2. the generated email will be saved in a new folder named (emails) as a .txt format but you can have a look on them in the interface.
 
+Note: this repo serve just for a small task of a bigger project if you have any suggestions to improve the methode please don't hesitate to reach out.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
